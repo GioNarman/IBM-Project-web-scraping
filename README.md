@@ -4,8 +4,7 @@ Extracting essential data from a dataset and displaying it is a necessary part o
 therefore individuals can make correct decisions based on the data. 
 In this project, I extracted some stock data, then displayed this data in a graph.
 
-Table of contents:
-
+contents:   
 Define a Function that Makes a Graph; 
 Use yfinance to Extract Stock Data;
 Use Webscraping to Extract Tesla Revenue Data; 
