@@ -6,10 +6,10 @@ In this project, I extracted some stock data, then displayed this data in a grap
 
 Table of contents:
 
-Define a Function that Makes a Graph
-Question 1: Use yfinance to Extract Stock Data
-Question 2: Use Webscraping to Extract Tesla Revenue Data
-Question 3: Use yfinance to Extract Stock Data
-Question 4: Use Webscraping to Extract GME Revenue Data
-Question 5: Plot Tesla Stock Graph
-Question 6: Plot GameStop Stock Graph
+Define a Function that Makes a Graph; 
+Use yfinance to Extract Stock Data;
+Use Webscraping to Extract Tesla Revenue Data; 
+Use yfinance to Extract Stock Data; 
+Use Webscraping to Extract GME Revenue Data;
+Plot Tesla Stock Graph;
+Plot GameStop Stock Graph;
